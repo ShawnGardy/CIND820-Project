@@ -3,8 +3,7 @@
 
 ### The Purpose Of This Project Was To Scrape Tweets From Twitter In Order To Examine The Following Two Questions 
 
-Hypothesis One:  Using NLP Try To Identify If New Phrases Or Idioms Are Being Used In Different Places On The Continent ?  
-Especially, Toronto, Vancouver, New York And San Francisco 
+Hypothesis One:  Using NLP Try To Identify If New Phrases Or Idioms Are Being Used In Different Places On The Continent ?  Especially, Toronto, Vancouver, New York And San Francisco 
 
 Hypothesis Two: Try To Identify If There Is A Noticeable Trend In The Use of Short-Message-System(sms) Or Texting Abbreviations Being Used
 
